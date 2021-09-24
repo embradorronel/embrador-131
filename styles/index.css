@@ -1,0 +1,13 @@
+div > .img-size {
+	margin-top: 20px;
+	width: 300px;
+	height: auto;
+}
+
+.height-size {
+	height:auto;
+}
+
+.carousel-size{
+	height:35rem;
+}
